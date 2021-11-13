@@ -1,0 +1,53 @@
+html {
+	color: #e0e0e0;
+}
+
+#wrap {
+	width: 30%;
+	min-height: 220px;
+	margin-top: 15%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 20px;
+	background-color: rgba(7, 7, 7, 0.5);
+}
+
+table {
+	text-align: left;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+}
+
+th, td {
+	padding-left: 20px;
+}
+
+th {
+	padding-top: 10px;
+	height: 40px;
+}
+
+tr {
+	font-size: 120%;
+	font-family: 'Segoe UI';
+}
+
+tr.heading {
+		color: #ff9d00;
+		font-weight: 500;
+}
+
+#tit {
+		color: #ff9d00;
+		font-weight: 500;
+		font-size: 120%;
+	    font-family: 'Segoe UI';
+}
+
+#tit1 {
+		color: #ffffff;
+		font-weight: 500;
+		font-size: 120%;
+	    font-family: 'Segoe UI';
+}
